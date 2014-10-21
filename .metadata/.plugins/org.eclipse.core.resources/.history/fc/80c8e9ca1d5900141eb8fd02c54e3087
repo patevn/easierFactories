@@ -1,0 +1,5 @@
+package normalFactory;
+
+public class FactoryPatternDemo {
+
+}
